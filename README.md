@@ -18,7 +18,7 @@ Sou um desenvolvedor back-end com paixão por construir sistemas escaláveis, ef
 📍 Amazonas, Brasil
 
 ## 📫 Contato
-- 📧 Email: joseph.dyer@example.com  
+- 📧 Email: joseph@nacionalplayer.com.br 
 - 🔗 LinkedIn: [linkedin.com/in/josephdyer](https://www.linkedin.com/in/josephdyer)  
 - 🐱 GitHub: [github.com/josephdyers](https://github.com/josephdyers)
 
