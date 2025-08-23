@@ -1,26 +1,25 @@
-# Guilherme Henrique
+# Joseph Dyer
 
 ### Desenvolvedor Back-End
 
 ## Sobre mim
-Sou um desenvolvedor back-end apaixonado por tecnologia e soluções eficientes. Tenho experiência com Laravel, HTML, CSS e PAWN, trabalhando em projetos que variam de servidores de jogos a sistemas educacionais.
+Sou um desenvolvedor back-end com paixão por construir sistemas escaláveis, eficientes e bem estruturados. Tenho experiência sólida em desenvolvimento backend, especialmente com **Laravel**, além de atuar com **PAWN**, **HTML**, **CSS** e integrações com **MySQL**. Trabalho com foco em performance, segurança e boas práticas de programação.
 
 ## 🛠️ Skills
 - **Linguagens e Frameworks:** Laravel, PAWN, HTML, CSS
-- **Banco de Dados:** MySQL (Mediano)
+- **Banco de Dados:** MySQL (Intermediário)
+- **Ferramentas e Outros:** Git, Composer, XAMPP, phpMyAdmin
 
 ## 💼 Experiência Profissional
-- **Nacional Player SA:MP** - Desenvolvimento e manutenção de sistemas em PAWN e Laravel.
-- **PlayVicio Games** - CIO e Desenvolvedor, responsável pela arquitetura e desenvolvimento de sistemas.
-- **SEDUC-AM** - Desenvolvedor Júnior, atuando na criação e manutenção de sistemas internos.
+- **Nacional Player SA:MP**  
+  Desenvolvimento e manutenção de gamemodes e sistemas para servidores SA-MP utilizando PAWN e integração com Laravel.
 
-## 🌎 De onde sou
+## 🌎 Localização
 📍 Amazonas, Brasil
 
 ## 📫 Contato
-- Email: guilherme@guilhermedev.com
-- LinkedIn: [[linkedin.com/in/guilhermehenriquee](https://www.linkedin.com/in/guilhermehenriquee/)
-- GitHub: [github.com/devguihenrique](https://github.com/devguihenrique)
+- 📧 Email: joseph.dyer@example.com  
+- 🔗 LinkedIn: [linkedin.com/in/josephdyer](https://www.linkedin.com/in/josephdyer)  
+- 🐱 GitHub: [github.com/josephdyers](https://github.com/josephdyers)
 
-🚀 Sempre buscando novos desafios e aprendizado!
-
+🚀 Sempre em busca de novos desafios e aprimoramento técnico!
