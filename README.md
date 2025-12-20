@@ -1,25 +1,41 @@
-# Joseph Dyer
+# Hi there, I'm Joseph Dyer! 👋
 
-### Desenvolvedor Back-End
+> *Developer, enthusiast of American culture, and member of the awesome team*
 
-## Sobre mim
-Sou um desenvolvedor back-end com paixão por construir sistemas escaláveis, eficientes e bem estruturados. Tenho experiência sólida em desenvolvimento backend, especialmente com **Laravel**, além de atuar com **PAWN**, **HTML**, **CSS** e integrações com **MySQL**. Trabalho com foco em performance, segurança e boas práticas de programação.
+**I am a creative developer**, currently **working as a Back-End Developer at the Amazonas State Department of Education**. I develop systems to benefit education in my state. I love what I do and fully contribute to the development of projects and systems.
 
-## 🛠️ Skills
-- **Linguagens e Frameworks:** Laravel, PAWN, HTML, CSS
-- **Banco de Dados:** MySQL (Intermediário)
-- **Ferramentas e Outros:** Git, Composer, XAMPP, phpMyAdmin
+---
 
-## 💼 Experiência Profissional
-- **Nacional Player SA:MP**  
-  Desenvolvimento e manutenção de gamemodes e sistemas para servidores SA-MP utilizando PAWN e integração com Laravel.
+### 🛠️ Tech Stack & Tools
 
-## 🌎 Localização
-📍 Amazonas, Brasil
+![Pawn](https://img.shields.io/badge/Pawn-SA--MP-orange?style=for-the-badge)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📫 Contato
-- 📧 Email: joseph@nacionalplayer.com.br 
-- 🔗 LinkedIn: [linkedin.com/in/josephdyer](https://www.linkedin.com/in/josephdyer)  
-- 🐱 GitHub: [github.com/josephdyers](https://github.com/josephdyers)
+---
 
-🚀 Sempre em busca de novos desafios e aprimoramento técnico!
+### 💼 Experience
+
+#### **Nacional Player (npsamp.com.br)**
+**Role:** Scripter (System Developer)  
+**Period:** Feb 2024 – Actual
+- Developing core systems and managing server infrastructure using **Pawn**.
+- I also contribute financially and provide support to the administrative team; in the current project scenario, I have always remained active.
+
+---
+
+### ⚡ Fun Facts
+- 🔎 **Education:** I am a big advocate for education and I contribute directly to its development.
+- 🏆 **Music:** I listen to Ozzy Osbourne, Guns N' Roses, Metallica, and other rock bands.
+- 🎮 **Games:** I'm a big fan of the Far Cry franchise; my first Far Cry was Far Cry 5, which is where I got the inspiration for my nickname.
+
+---
+
+### 📫 Let's Connect
+
+<a href="mailto:josephwillfords@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.com/users/_josephseed">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
