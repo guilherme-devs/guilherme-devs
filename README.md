@@ -1,4 +1,4 @@
-# Hi there, I'm Joseph Dyer! 👋
+# Hi there, I'm Guilherme Henrique! 👋
 
 > *Developer, enthusiast of American culture, and member of the awesome team*
 
@@ -22,6 +22,12 @@
 - Developing core systems and managing server infrastructure using **Pawn**.
 - I also contribute financially and provide support to the administrative team; in the current project scenario, I have always remained active.
 
+#### **Secretária de Estado de Educação do Amazonas (seduc.am.gov.br)**
+**Role:** Developer Back-End (System Developer)  
+**Period:** Feb 2024 – Actual
+- Developing core systems and managing server infrastructure using **PHP**.
+- I work with tools that aim to make education management in Amazonas easier.
+
 ---
 
 ### ⚡ Fun Facts
@@ -33,7 +39,7 @@
 
 ### 📫 Let's Connect
 
-<a href="mailto:josephwillfords@gmail.com">
+<a href="mailto:guilherme.vasconcelos.ferreira@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://discord.com/users/_josephseed">
