@@ -17,9 +17,9 @@
 ### 💼 Experience
 
 
-#### **Inside Roleplay (insideroleplay.com.br)**
-**Role:** Head of Development  
-**Period:** Jan 2026 - 2026
+#### **Califórnia Roleplay (californiaroleplay.com.br)**
+**Role:** Community Manager & Founder  
+**Period:** Jan 2026 - Actual
 - Developing core systems and managing server infrastructure using **Pawn**.
 - I also contribute financially and provide support to the administrative team; in the current project scenario, I have always remained active.
 
