@@ -1,5 +1,5 @@
 # Hi there, I'm Guilherme Henrique! 👋
-> **Back-End Developer** focado em soluções escaláveis para educação e entretenimento. Atualmente, transformando a gestão pública na **SEDUC-AM** e liderando o desenvolvimento no **PlayVicio RP**.
+> **Back-End Developer** focado em soluções escaláveis para educação e entretenimento. Atualmente, transformando a gestão pública na **SEDUC-AM** e liderando o desenvolvimento na **Stellar Corporation**.
 
 ---
 
@@ -25,8 +25,15 @@
 
 ## 💼 Experiência Profissional
 
+### ⭐ **Stellar Corporation**
+**CEO and Founder** | *Jan 2026 – Actual*
+* **Liderança:** Gestão de infraestrutura crítica e arquitetura de sistemas de alto tráfego.
+* **Tech:** Desenvolvimento, integrações com **Node.js** e automações em **Python**.
+* **Estratégia:** Suporte direto à administração e viabilidade financeira do ecossistema.
+
+
 ### 🎮 **PlayVicio Roleplay**
-**Head de Desenvolvimento & Full Stack** | *Jan 2026 – Atual*
+**Head de Desenvolvimento & Full Stack** | *Jan 2026 – Mai 2026*
 * **Liderança:** Gestão de infraestrutura crítica e arquitetura de sistemas de alto tráfego.
 * **Tech:** Desenvolvimento em **Pawn**, integrações com **Node.js** e automações em **Python**.
 * **Estratégia:** Suporte direto à administração e viabilidade financeira do ecossistema.
